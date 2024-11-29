@@ -17,9 +17,3 @@ Users are assigned roles like `Admin`, `Manager`, or `User`, and can only access
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens), bcrypt.js
 - **Environment Variables**: dotenv
-
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/rbac-app.git
-   cd rbac-app
